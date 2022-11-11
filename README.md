@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-page-using-flexbox-93YLynwJyo)
 - [Live Site URL](https://luawyn.github.io./project-product-page/)
 
 ## My process
